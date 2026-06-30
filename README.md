@@ -166,3 +166,4 @@ If deployed on **AWS Lambda** (1769 MB memory tier, priced at \$0.0000166667 per
 ## Notes
 
 This project was developed as a student take-home assignment for the SalesCode.ai campus placement. The primary focus was on building a simple, explainable, and maintainable classical machine learning solution rather than using large deep learning models.
+# Salescode_Assignment
